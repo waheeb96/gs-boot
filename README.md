@@ -10,11 +10,11 @@ Build a multi-stage image to build and run the project(https://github.com/spring
 Clone the project
 
 ```bash
-  git clone https://github.com/waheeb96/gs-docker
+  git clone https://github.com/waheeb96/gs-boot
 ```
 
 ```bash
-  cd gs-docker
+  cd gs-boot
 ```
 
 Build
