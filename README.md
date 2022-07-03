@@ -34,7 +34,5 @@ Run
 
 Run the image from DockerHub
 
-```bash
-  docker pull mohamadassi173/gs-boot:latest
-  docker run -d -p 8080:8080 mohamadassi173/gs-boot:latest
-```
+![docker-pic-1](https://user-images.githubusercontent.com/72220299/177042111-cdc3a662-364d-46f3-9738-3961cf1139f4.PNG)
+
